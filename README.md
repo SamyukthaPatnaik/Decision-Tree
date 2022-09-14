@@ -15,7 +15,7 @@ What we’ve seen above is an example of classification tree, where the outcome 
 
 Here the decision or the outcome variable is Continuous, e.g. a number like 123. 
 
-![DT](https://static.javatpoint.com/tutorial/machine-learning/images/decision-tree-classification-algorithm.png)
+![DT](https://365datascience.com/resources/blog/rr6cuudl59r-decision-trees-image1.png)
 
 ## Decision Tree Terminologies
 
@@ -31,3 +31,4 @@ Here the decision or the outcome variable is Continuous, e.g. a number like 123.
 
 **Parent/Child node:** The root node of the tree is called the parent node, and other nodes are called the child nodes.
 
+![Example](https://365datascience.com/resources/blog/59utffqewug-decision-trees-image2.png)
