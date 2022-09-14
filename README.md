@@ -31,4 +31,14 @@ Here the decision or the outcome variable is Continuous, e.g. a number like 123.
 
 **Parent/Child node:** The root node of the tree is called the parent node, and other nodes are called the child nodes.
 
+## A Practical Example
+
 ![Example](https://365datascience.com/resources/blog/59utffqewug-decision-trees-image2.png)
+
+## For More Examples- Refer
+1. [365datascience](https://365datascience.com/tutorials/machine-learning-tutorials/decision-trees/)
+2. [xoriant](https://www.xoriant.com/blog/decision-trees-for-classification-a-machine-learning-algorithm)
+3. [towardsdatascience](https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052)
+
+
+
