@@ -30,3 +30,4 @@ Here the decision or the outcome variable is Continuous, e.g. a number like 123.
 **Pruning:** Pruning is the process of removing the unwanted branches from the tree.
 
 **Parent/Child node:** The root node of the tree is called the parent node, and other nodes are called the child nodes.
+
