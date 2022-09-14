@@ -6,12 +6,27 @@
 - In order to build a tree, we use the CART algorithm, which stands for Classification and Regression Tree algorithm.
 
  `A decision tree can contain categorical data (YES/NO) as well as numeric data.`
-1. Classification trees (Yes/No types)
+ 
+**1. Classification trees (Yes/No types)**
 
 What we’ve seen above is an example of classification tree, where the outcome was a variable like ‘fit’ or ‘unfit’. Here the decision variable is Categorical.
 
-2. Regression trees (Continuous data types)
+**2. Regression trees (Continuous data types)**
 
 Here the decision or the outcome variable is Continuous, e.g. a number like 123. 
 
-![Image](https://www.niser.ac.in/~smishra/teach/cs460/2020/lectures/lec3/dec_tree2.png)
+![DT](https://static.javatpoint.com/tutorial/machine-learning/images/decision-tree-classification-algorithm.png)
+
+## Decision Tree Terminologies
+
+**Root Node:** Root node is from where the decision tree starts. It represents the entire dataset, which further gets divided into two or more homogeneous sets.
+
+**Leaf Node:** Leaf nodes are the final output node, and the tree cannot be segregated further after getting a leaf node.
+
+**Splitting:** Splitting is the process of dividing the decision node/root node into sub-nodes according to the given conditions.
+
+**Branch/Sub Tree:** A tree formed by splitting the tree.
+
+**Pruning:** Pruning is the process of removing the unwanted branches from the tree.
+
+**Parent/Child node:** The root node of the tree is called the parent node, and other nodes are called the child nodes.
