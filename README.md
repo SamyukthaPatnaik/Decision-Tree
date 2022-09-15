@@ -9,7 +9,7 @@
  
 **1. Classification trees (Yes/No types)**
 
-What we’ve seen above is an example of classification tree, where the outcome was a variable like ‘fit’ or ‘unfit’. Here the decision variable is Categorical.
+Below is an example of classification tree, where the outcome was a variable like ‘yes’ or ‘no’. Here the decision variable is Categorical.
 
 **2. Regression trees (Continuous data types)**
 
