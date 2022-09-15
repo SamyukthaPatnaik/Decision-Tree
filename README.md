@@ -35,6 +35,12 @@ Here the decision or the outcome variable is Continuous, e.g. a number like 123.
 
 ![Example](https://365datascience.com/resources/blog/59utffqewug-decision-trees-image2.png)
 
+**Note:**
+
+**1.** There could be more than one tree that fits the same data.
+
+**2.** We can't randomly choose the root node.
+
 ## For More Examples- Refer
 1. [365datascience](https://365datascience.com/tutorials/machine-learning-tutorials/decision-trees/)
 2. [xoriant](https://www.xoriant.com/blog/decision-trees-for-classification-a-machine-learning-algorithm)
