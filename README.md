@@ -51,11 +51,12 @@ Here the decision or the outcome variable is Continuous, e.g. a number like 123.
 - One way is to set a minimum number of training inputs to use on each leaf.
 - Another way is to set maximum depth of your model (Maximum depth refers to the the length of the longest path from a root to a leaf).
 
-**Pruning-**
+**[Pruning-](https://en.wikipedia.org/wiki/Decision_tree_pruning#:~:text=Pruning%20is%20a%20data%20compression,and%20redundant%20to%20classify%20instances.)**
 
 - The performance of a tree can be further increased by pruning. It involves removing the branches that make use of features having low importance. 
 - This way, we reduce the complexity of tree, and thus increasing its predictive power by reducing overfitting.
 - Pruning can start at either root or the leaves.
+- The simplest method of pruning starts at leaves and removes each node with most popular class in that leaf, this change is kept if it doesn't deteriorate accuracy.
 
 ## For More Examples- Refer
 1. [365datascience](https://365datascience.com/tutorials/machine-learning-tutorials/decision-trees/)
