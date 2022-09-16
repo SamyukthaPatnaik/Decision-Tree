@@ -46,9 +46,16 @@ Here the decision or the outcome variable is Continuous, e.g. a number like 123.
 1. [Entropy](https://analyticsindiamag.com/a-complete-guide-to-decision-tree-split-using-information-gain/)
 2. [Gini Index](https://analyticsindiamag.com/understanding-the-maths-behind-the-gini-impurity-method-for-decision-tree-split/#:~:text=Gini%20impurity%20is%20an%20important%20measure%20used%20to%20construct%20the%20decision%20trees.&text=Gini%20impurity%20is%20a%20function,values%20from%200%20to%200.5.)
 
+## When to stop slitting?
+- As a problem usually has a large set of features, it results in large number of split, which in turn gives a huge tree. Such trees are complex and can lead to overfitting
+- One way is to set a minimum number of training inputs to use on each leaf.
+- Another way is to set maximum depth of your model (Maximum depth refers to the the length of the longest path from a root to a leaf).
 
+**Pruning-**
 
-
+- The performance of a tree can be further increased by pruning. It involves removing the branches that make use of features having low importance. 
+- This way, we reduce the complexity of tree, and thus increasing its predictive power by reducing overfitting.
+- Pruning can start at either root or the leaves.
 
 ## For More Examples- Refer
 1. [365datascience](https://365datascience.com/tutorials/machine-learning-tutorials/decision-trees/)
