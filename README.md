@@ -41,6 +41,15 @@ Here the decision or the outcome variable is Continuous, e.g. a number like 123.
 
 **2.** We can't randomly choose the root node.
 
+## Decision tree splitting methods
+
+1. [Entropy](https://analyticsindiamag.com/a-complete-guide-to-decision-tree-split-using-information-gain/)
+2. [Gini Index](https://analyticsindiamag.com/understanding-the-maths-behind-the-gini-impurity-method-for-decision-tree-split/#:~:text=Gini%20impurity%20is%20an%20important%20measure%20used%20to%20construct%20the%20decision%20trees.&text=Gini%20impurity%20is%20a%20function,values%20from%200%20to%200.5.)
+
+
+
+
+
 ## For More Examples- Refer
 1. [365datascience](https://365datascience.com/tutorials/machine-learning-tutorials/decision-trees/)
 2. [xoriant](https://www.xoriant.com/blog/decision-trees-for-classification-a-machine-learning-algorithm)
